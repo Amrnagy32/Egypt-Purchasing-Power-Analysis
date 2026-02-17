@@ -36,7 +36,7 @@ Did income growth outpace inflation over the long term?
 
 ## Visualization
 
-![GDP Trend](gdp_trend.png)
+![GDP Trend](gdp_plot.png)
 
 ---
 
