@@ -53,3 +53,8 @@ Did income growth outpace inflation over the long term?
 This analysis focuses on long-term structural change rather than short-term economic volatility.
 While specific years show significant shocks, cumulative real income growth suggests overall purchasing power expansion over the studied period.
 Jupyter Notebook
+
+---
+
+## Conclusion
+- Despite periods of high inflation and economic shocks, average income per person has grown over long-term
